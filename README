@@ -1,3 +1,5 @@
+FORK: Adding Platform.io support
+
 # To build from a release that already has a configure file:
 
     ./configure
