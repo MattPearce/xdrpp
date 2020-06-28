@@ -10,7 +10,7 @@
   "build": {
     "srcDir": "xdrpp",
     "srcFilter": "+<*.cpp>",
-    "includeDir": "xdrpp",
+    "includeDir": "",
     "extraScript": "configure.py"
   }
 }
