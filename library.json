@@ -1,0 +1,11 @@
+{
+  "name": "xdrpp",
+  "keywords": "xdr, stellar, serialization",
+  "description": "RFC4506 XDR compiler and message library",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/MattPearce/xdrpp.git"
+  },
+  "version": "1.0.0"
+}
